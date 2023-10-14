@@ -18,7 +18,7 @@
 }
 
 .myDiv {
-  content align-items: center;
+   align-items: center;
   border: 5px outset rgba(210, 244, 177, 0.704);
   background-color: rgba(217, 230, 173, 0.008);    
   text-align: center;
@@ -95,7 +95,7 @@
       
   }
   .tap{
-    content align-items: center;
+   align-items: center;
   border: 5px outset rgba(210, 244, 177, 0.704);
   background: linear-gradient(to bottom, #66ccff 0%, #ff3399 100%);  text-align: center;
   width: 10%;
@@ -120,8 +120,8 @@
     }
     
   h4{
-    align : center;
-    content align-items: center;
+    
+    align-items: center;
     border: 5px outset rgba(210, 244, 177, 0.704);
     background: linear-gradient(to bottom, #66ccff 0%, #ff3399 100%);  text-align: center;
     width: 10%;
